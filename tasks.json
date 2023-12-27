@@ -1,0 +1,143 @@
+{
+  "tasks": [
+    {
+      "tag": "greeting",
+      "ways": ["Hi", "Hello", "Hey", "Howdy", "Greetings", "Hi there", "Hey there", "Hello there", "Hiiii"],
+      "responses": ["Hello! How can I assist you today?", "Hi there! What can I help you find?"]
+    },
+    {
+      "tag": "goodbye",
+      "ways": ["Goodbye", "Bye", "See you later", "Farewell", "Take care", "Adios", "Until next time"],
+      "responses": ["Goodbye! Have a great day.", "See you later!"]
+    },
+    {
+      "tag": "thanks",
+      "ways": ["Thanks", "Thank you", "Appreciate it", "Thanks a lot", "Thank you so much", "Thanks heaps"],
+      "responses": ["You're welcome!", "Anytime! If you have more questions, feel free to ask."]
+    },
+    {
+      "tag": "items",
+      "ways": ["What items do you sell?", "Tell me about your products", "What's in your store?", "Show me your items", "What kind of clothing do you have?", "Give me an overview of your products","what are you selling?"],
+      "responses": ["We offer a variety of clothing items, including dresses, shirts, pants, and accessories."]
+    },
+    {
+      "tag": "discounts",
+      "ways": ["Are there any discounts?", "Tell me about your promotions", "Do you have any special offers?", "Any discounts available?", "Are there ongoing sales?"],
+      "responses": ["Yes, we have ongoing promotions! Check our website for the latest discounts."]
+    },
+    {
+      "tag": "new_arrivals",
+      "ways": ["What's new?", "Tell me about your new arrivals", "What's the latest in your collection?", "Latest additions to your store", "New items in stock", "Show me your latest products"],
+      "responses": ["Explore our latest arrivals for trendy and stylish clothing."]
+    },
+    {
+      "tag": "sizes",
+      "ways": ["What sizes do you have?", "Tell me about sizing", "Do you offer different sizes?", "Available size options", "Sizing information", "Sizes in stock"],
+      "responses": ["We offer a range of sizes, from small to extra-large. Check the size guide on our website for details."]
+    },
+    {
+      "tag": "colors",
+      "ways": ["Do you have different colors?","is there any different colors available", "What colors are available?", "Can I choose the color?", "Color options", "Available color choices", "Show me the available colors"],
+      "responses": ["Certainly! Our items are available in various colors. Explore our catalog for options."]
+    },
+    {
+      "tag": "styling_tips",
+      "ways": ["Can you offer styling tips?", "Any fashion advice?", "How do I style your products?", "Fashion tips", "Dressing suggestions", "Style recommendations"],
+      "responses": ["Absolutely! Our blog has great styling tips. Check it out on our website for some inspiration."]
+    },
+    {
+      "tag": "contact",
+      "ways": [
+        "How can I contact customer support?",
+        "What is your customer service phone number?",
+        "Is there an email for customer inquiries?",
+        "I need more clearance ",
+        "I need more support",
+        "you are useless",
+        "Not enough information from you",
+        "I can't understand you!!!!"
+      ],
+      "responses": [
+        "Our customer support can be reached at vmstyles@gmail.com.",
+        "For assistance, please email us at vmstyles@gmail.com or call our customer service hotline at 0774574010.",
+        "Feel free to reach out to our customer support team via email at vmstyles@gmail.com or by phone at 0774574010."
+      ]
+    },
+    {
+      "tag": "order_tracking",
+      "ways": ["Where is my order?", "Can I track my order?", "Order status inquiry", "Track my purchase", "Order location", "Check my order"],
+      "responses": ["You can easily track your order by logging into your account on our website."]
+    },
+    {
+      "tag": "return_policy",
+      "ways": ["Tell me about your return policy", "Can I return an item?", "Refund process", "Return procedure", "Returning a product", "Refund information"],
+      "responses": ["Our return policy allows returns within 30 days. Visit our website for detailed information on returns and refunds."]
+    },
+    {
+      "tag": "gift_ideas",
+      "ways": ["I need gift ideas", "Recommend gifts", "Gift suggestions", "Present ideas", "Gift recommendations", "Choosing a gift"],
+      "responses": ["Looking for a gift? Consider our stylish gift sets and accessories. They make perfect presents!"]
+    },
+    {
+      "tag": "occasion_outfits",
+      "ways": ["Outfits for special occasions", "What to wear for a party", "Occasion wear", "Special event clothing", "Party outfits", "Dressing for events"],
+      "responses": ["Discover our collection of elegant outfits perfect for special occasions and parties."]
+    },
+    {
+      "tag": "summer_collection",
+      "ways": ["Tell me about your summer collection", "Summer fashion", "What's trending this summer?", "Hot weather styles", "Summer wardrobe", "Latest summer trends"],
+      "responses": ["Our summer collection features vibrant colors and breezy styles. Check it out on our website!"]
+    },
+    {
+      "tag": "fashion_trends",
+      "ways": ["Latest fashion trends", "What's in style?", "Trending fashion", "Fashionable looks", "Stylish trends", "Current fashion styles"],
+      "responses": ["Stay on trend with our latest fashion arrivals. Explore the hottest styles on our website."]
+    },
+    {
+      "tag": "customization_options",
+      "ways": ["Can I customize an item?", "Personalized clothing", "Customization options", "Tailoring choices", "Design customization", "Modify a product"],
+      "responses": ["While we don't offer customization, our diverse collection provides a wide range of choices."]
+    },
+    {
+      "tag": "feedback",
+      "ways": ["I have feedback", "Feedback on your service", "Customer experience", "Share your thoughts", "Provide feedback", "Customer satisfaction"],
+      "responses": ["We value your feedback! Please share your thoughts with us at vmstyles@gmail.com."]
+    },
+    {
+      "tag": "wishlist",
+      "ways": ["How does the wishlist work?", "Creating a wishlist", "Managing my wishlist", "Wishlist features", "Using the wishlist", "Wishlist options"],
+      "responses": ["The wishlist allows you to save your favorite items. Log in to your account to create and manage your wishlist."]
+    },
+    {
+      "tag": "bot_name",
+      "ways": ["What's your name?", "Tell me your name", "Who are you?", "Your name?", "What should I call you?"],
+      "responses": ["We are VM Styles."]
+    },
+    {
+      "tag": "prices",
+      "ways": ["How much does it cost?", "What is the price?", "Can you tell me the prices?", "Price inquiry", "How expensive is it?", "What are your prices?"],
+      "responses": ["For detailed pricing information, please visit our website or contact our customer support at vmstyles@gmail.com."]
+    },
+    {
+      "tag": "invalid",
+      "ways": [
+        "",
+        "gvsd",
+        "asbhk"
+      ],
+      "responses": [
+        "Sorry, I didn't catch that. Can you please provide more information?",
+        "I'm not sure I understand. Could you clarify?",
+        "Apologies, I couldn't comprehend that. Can you rephrase?"
+      ]
+    },
+    {
+      "tag": "purchase_inquiry",
+      "ways": ["Can I buy *", "How to purchase *", "Tell me about buying *"],
+      "responses": [
+        "Certainly! If you have a specific item in mind, please visit our website and explore our catalog. You can add the item to your cart and proceed with the purchase.",
+        "To buy a specific item, visit our website, browse the catalog, and add the desired item to your cart for a seamless purchasing experience."
+      ]
+    }
+  ]
+}
